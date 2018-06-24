@@ -2,6 +2,8 @@
 
 ## Follow-Along Tutorial PyData
 
+Link to Recording of Session: [Video Lecture] (https://pyvideo.org/pydata-berlin-2017/introduction-to-data-analysis-with-pandas.html)
+
 Pandas is the Swiss-Multipurpose Knife for Data Analysis in Python. With Pandas dealing with data-analysis is easy and simple but there are some things you need to get your head around first as Data-Frames and Data-Series. 
 
 The tutorial provides a compact introduction to Pandas for beginners for I/O, data visualisation, statistical data analysis and aggregation within Jupiter notebooks.
